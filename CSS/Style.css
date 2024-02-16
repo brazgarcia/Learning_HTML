@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(48, 48, 165);
+}
+
+h1 {
+    color: black;
+    border: 3px solid white;
+    text-align: center;
+    background-color: white;
+    font-family: arial;
+}
+
+h2 {
+    color: black;
+    border: 3px solid white;
+    text-align: center;
+    background-color: white;
+    font-family: arial;
+}
+
+h3{
+    color: black;
+    border: 3px solid white;
+    text-align: center;
+    background-color: white;
+    font-family: arial;
+}
+
+h4 {
+    color: black;
+    border: 3px solid white;
+    text-align: center;
+    background-color: white;
+    font-family: arial;
+}
+
+h5 {
+    color: black;
+    border: 3px solid white;
+    text-align: center;
+    background-color: white;
+    font-family: arial;
+}
+
+h6 {
+    color: black;
+    border: 3px solid white;
+    text-align: center;
+    background-color: white;
+    font-family: arial;
+}
+
+p {
+    color: white;
+    border: 3px solid white;
+    border-radius: 5px;
+    text-align: center;
+    background-color: black;
+    font-family: cursive;
+}
